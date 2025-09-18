@@ -207,6 +207,7 @@ Git
 Backend Setup
 bash# Clone the repository
 git clone https://github.com/shaarvitripathi4748/CHOCOBAR-LifeLine-App-Thapar-Institute-of-Engineering-Technology.git
+
 cd CHOCOBAR-LifeLine-App-Thapar-Institute-of-Engineering-Technology
 
 # Create virtual environment
