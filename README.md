@@ -1,7 +1,9 @@
 # CHOCOBAR-LifeLine-App-Thapar-Institute-of-Engineering-Technology
 LifeLine App
 AI-powered healthcare & accessibility companion app
+<br><br>
 Submissions:                                         (Note: Participants will add their video link here after recording.)
+<br><br>
 Table of Contents
 
 The Problem
@@ -42,27 +44,32 @@ Our Solution - LifeLine
 LifeLine is a revolutionary AI-powered mobile application that transforms any smartphone into a personal healthcare guardian and accessibility assistant. By leveraging cutting-edge on-device AI and the powerful sensors already built into modern smartphones, LifeLine provides continuous, intelligent support without compromising privacy or requiring constant connectivity.
 <br><br>
 1. On-Device Continuous Monitoring
+<br><br>
 LifeLine runs efficiently in the background, turning your smartphone into a sophisticated medical monitoring device:
-
+<br><br>
 Accelerometer/Gyroscope Integration: Continuously analyzes movement patterns to detect falls, unusual tremors, convulsions, or seizure-like motor activity. Our AI distinguishes between normal daily activities and potential medical emergencies with remarkable accuracy.
+<br><br>
 Ambient Sound Analysis: The microphone listens for acoustic signatures of distress:gasping, choking, irregular breathing patterns, or verbal cries for help, while respecting privacy by processing all audio locally.
 <br><br>
 Visual Monitoring (Optional): When activated, the camera can observe physical signs like facial expressions or body positioning, adding another layer of detection capability.
 
-2. On-Device AI Symptom Detection & Response
+3. On-Device AI Symptom Detection & Response
 <br><br>
 When LifeLine detects a potential medical event, it springs into action with intelligent, personalized responses:
 
 Instant AI Analysis: Our lightweight, on-device machine learning model—trained on extensive medical datasets, analyzes sensor data in real-time, identifying early warning signs and classifying the type of episode occurring.
+<br><br>
 Voice-First Aid Guidance: The app immediately activates a calm, clear voice guidance system that:
 
 Provides reassurance to the patient: "You're having an episode. Help is on the way. Try to breathe slowly."
+<br><br>
 Instructs nearby bystanders step-by-step: "Please help them lie down on their side. Loosen any tight clothing around their neck. Do not put anything in their mouth."
 
 
 Personalized Medical Instructions: Based on pre-loaded patient profiles, LifeLine provides specific guidance:
 
 "This person has epilepsy. Please administer 1 tablet of Clonazepam from the red medical pouch in their bag's front pocket."
+<br><br>
 "They have a cardiac condition. Help them take their nitroglycerin tablet under their tongue."
 
 
