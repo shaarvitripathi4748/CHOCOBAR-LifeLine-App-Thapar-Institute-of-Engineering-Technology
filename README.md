@@ -152,7 +152,7 @@ Git
 
 Backend Setup
 bash# Clone the repository
-git clone https://github.com/shaarvitripathi4748/lifeline-app.git
+git clone https://github.com/shaarvitripathi4748/CHOCOBAR-LifeLine-App-Thapar-Institute-of-Engineering-Technology-app.git
 cd lifeline-app
 
 # Create virtual environment
