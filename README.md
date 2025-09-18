@@ -5,10 +5,13 @@ Submissions:                                         (Note: Participants will ad
 Table of Contents
 
 The Problem
+<br><br>
 Our Solution - LifeLine
 
 On-Device Continuous Monitoring
+<br><br>
 On-Device AI Symptom Detection & Response
+<br><br>
 Blind Assistance
 
 
@@ -20,12 +23,16 @@ Team
 License
 
 The Problem
+<br><br>
 Every day, millions of people worldwide navigate life with chronic medical conditions: epilepsy, cardiac disorders, anxiety disorders, Parkinson's disease and many more. These conditions don't just affect the patients; they create ripples of concern throughout entire families.
 The crisis is multi-faceted:
 
 Memory Gaps During Episodes: When a medical episode strikes, patients often experience memory loss or confusion, unable to accurately recall what exactly happened. This critical information gap hampers accurate diagnosis and treatment optimization to an extent.
+<br><br>
 Helpless Bystanders: Imagine witnessing someone having a seizure or cardiac event. Most people freeze, not knowing whether to call for help, how to position the person, or what immediate actions could save a life. These precious seconds of indecision can mean the difference between recovery and tragedy.
+<br><br>
 Family Anxiety: Families live in perpetual worry,"What if they have an attack when alone? What if nobody around knows their condition or medication needs?" This constant stress affects mental health and quality of life for entire households.
+<br><br>
 Accessibility Challenges: Additionally, over 285 million visually impaired individuals worldwide struggle with daily tasks that sighted people take for granted—finding personal belongings, navigating spaces, or identifying objects in their environment.
 
 The current reality is stark: There exists no comprehensive, intelligent solution that combines real-time health monitoring, emergency response guidance, and accessibility features—all while preserving user privacy and operating independently of constant internet connectivity.
