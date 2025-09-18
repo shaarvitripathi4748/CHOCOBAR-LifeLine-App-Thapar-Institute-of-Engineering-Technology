@@ -2,7 +2,7 @@
 LifeLine App
 AI-powered healthcare & accessibility companion app
 <br><br>
-Submissions:                                         (Note: Participants will add their video link here after recording.)
+Submissions: https://youtu.be/4K62r8QBW-Q?si=rdB7ewfar652Us-G                     
 <br><br>
 Table of Contents
 
