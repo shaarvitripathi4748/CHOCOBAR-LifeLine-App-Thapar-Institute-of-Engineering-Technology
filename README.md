@@ -88,7 +88,9 @@ Real-time Navigation Assistance: Provides continuous voice feedback about obstac
 Technical Architecture
 <br><br>
 LifeLine employs a sophisticated yet elegant architecture that balances on-device processing for privacy and speed with cloud capabilities for complex AI tasks:
+<br><br>
 mermaidgraph TB
+
     subgraph "Mobile Device (Unity App)"
         A[Sensor Data Collection] --> B[On-Device ML Models]
         B --> C[Local Decision Engine]
