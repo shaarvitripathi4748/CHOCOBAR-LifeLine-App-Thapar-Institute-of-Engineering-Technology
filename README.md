@@ -20,12 +20,12 @@ Team
 License
 
 The Problem
-Every day, millions of people worldwide navigate life with chronic medical conditions—epilepsy, cardiac disorders, anxiety disorders, and Parkinson's disease. These conditions don't just affect the patients; they create ripples of concern throughout entire families.
+Every day, millions of people worldwide navigate life with chronic medical conditions: epilepsy, cardiac disorders, anxiety disorders, Parkinson's disease and many more. These conditions don't just affect the patients; they create ripples of concern throughout entire families.
 The crisis is multi-faceted:
 
 Memory Gaps During Episodes: When a medical episode strikes, patients often experience memory loss or confusion, unable to accurately recall what exactly happened. This critical information gap hampers accurate diagnosis and treatment optimization to an extent.
 Helpless Bystanders: Imagine witnessing someone having a seizure or cardiac event. Most people freeze, not knowing whether to call for help, how to position the person, or what immediate actions could save a life. These precious seconds of indecision can mean the difference between recovery and tragedy.
-Family Anxiety: Families live in perpetual worry—"What if they have an attack when alone? What if nobody around knows their condition or medication needs?" This constant stress affects mental health and quality of life for entire households.
+Family Anxiety: Families live in perpetual worry,"What if they have an attack when alone? What if nobody around knows their condition or medication needs?" This constant stress affects mental health and quality of life for entire households.
 Accessibility Challenges: Additionally, over 285 million visually impaired individuals worldwide struggle with daily tasks that sighted people take for granted—finding personal belongings, navigating spaces, or identifying objects in their environment.
 
 The current reality is stark: There exists no comprehensive, intelligent solution that combines real-time health monitoring, emergency response guidance, and accessibility features—all while preserving user privacy and operating independently of constant internet connectivity.
@@ -35,13 +35,13 @@ LifeLine is a revolutionary AI-powered mobile application that transforms any sm
 LifeLine runs efficiently in the background, turning your smartphone into a sophisticated medical monitoring device:
 
 Accelerometer/Gyroscope Integration: Continuously analyzes movement patterns to detect falls, unusual tremors, convulsions, or seizure-like motor activity. Our AI distinguishes between normal daily activities and potential medical emergencies with remarkable accuracy.
-Ambient Sound Analysis: The microphone listens for acoustic signatures of distress—gasping, choking, irregular breathing patterns, or verbal cries for help—while respecting privacy by processing all audio locally.
+Ambient Sound Analysis: The microphone listens for acoustic signatures of distress:gasping, choking, irregular breathing patterns, or verbal cries for help, while respecting privacy by processing all audio locally.
 Visual Monitoring (Optional): When activated, the camera can observe physical signs like facial expressions or body positioning, adding another layer of detection capability.
 
 2. On-Device AI Symptom Detection & Response
 When LifeLine detects a potential medical event, it springs into action with intelligent, personalized responses:
 
-Instant AI Analysis: Our lightweight, on-device machine learning model—trained on extensive medical datasets—analyzes sensor data in real-time, identifying early warning signs and classifying the type of episode occurring.
+Instant AI Analysis: Our lightweight, on-device machine learning model—trained on extensive medical datasets, analyzes sensor data in real-time, identifying early warning signs and classifying the type of episode occurring.
 Voice-First Aid Guidance: The app immediately activates a calm, clear voice guidance system that:
 
 Provides reassurance to the patient: "You're having an episode. Help is on the way. Try to breathe slowly."
@@ -211,7 +211,7 @@ Communicate with emergency responders
 Team
 Team CHOCOBAR
 Thapar Institute of Engineering & Technology
-We are a passionate team of engineering students committed to leveraging AI for social good. Our diverse backgrounds in machine learning, mobile development, and healthcare technology converge in LifeLine—our vision for a safer, more accessible world.
+We are a passionate team of engineering students committed to leveraging AI for social good. Our diverse backgrounds in machine learning, mobile development, and healthcare technology converge in LifeLine, our vision for a safer & more accessible world.
 
 Team Members: United by innovation, driven by impact
 Institution: Proudly representing TIET Patiala in Samsung PRISM GenAI Hackathon 2025
