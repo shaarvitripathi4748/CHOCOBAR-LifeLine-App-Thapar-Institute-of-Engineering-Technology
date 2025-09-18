@@ -53,11 +53,11 @@ Ambient Sound Analysis: The microphone listens for acoustic signatures of distre
 <br><br>
 Visual Monitoring (Optional): When activated, the camera can observe physical signs like facial expressions or body positioning, adding another layer of detection capability.
 
-3. On-Device AI Symptom Detection & Response
+2. On-Device AI Symptom Detection & Response
 <br><br>
 When LifeLine detects a potential medical event, it springs into action with intelligent, personalized responses:
 
-Instant AI Analysis: Our lightweight, on-device machine learning model—trained on extensive medical datasets, analyzes sensor data in real-time, identifying early warning signs and classifying the type of episode occurring.
+Instant AI Analysis: Our lightweight, on-device machine learning model:trained on extensive medical datasets, analyzes sensor data in real-time, identifying early warning signs and classifying the type of episode occurring.
 <br><br>
 Voice-First Aid Guidance: The app immediately activates a calm, clear voice guidance system that:
 
