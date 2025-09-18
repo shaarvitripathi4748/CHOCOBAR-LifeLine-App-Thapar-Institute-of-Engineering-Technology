@@ -18,7 +18,7 @@ The backend is a Python-based FastAPI server that handles heavy AI processing re
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/SHAARVITRIPATHI4748/CHOCOBAR-LifeLine-App-Thapar-Institute-of-Engineering-Technology.git
+git clone https://github.com/shaarvitripathi4748/CHOCOBAR-LifeLine-App-Thapar-Institute-of-Engineering-Technology.git
 
 cd CHOCOBAR-LifeLine-App-Thapar-Institute-of-Engineering-Technology
 
